@@ -1,0 +1,9 @@
+{
+	"name": "adf-adventure-data-pipeline-project-1-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b40c980-fe97-42b9-8599-124e64788b69",
+		"tenantId": "74585403-a029-4d66-9784-d7187c99a77f"
+	}
+}
